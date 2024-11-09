@@ -1,6 +1,7 @@
 🐥# C#egitim kampı 
 ------------------------------------------------------------------------------------------------
-✨Bu proje, C# dilinde temel ve ileri düzeyde örneklerin yer aldığı kapsamlı bir uygulamadır. Farklı programlama konuları üzerinde çalışarak hem teorik hem de pratik bilgiyi bir araya getirmeyi amaçlamaktadır.✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+✨Bu proje, C# dilinde temel ve ileri düzeyde örneklerin yer aldığı kapsamlı bir uygulamadır. Farklı programlama konuları üzerinde çalışarak hem teorik hem de pratik bilgiyi bir araya getirmeyi amaçlamaktadır.
+
 ⭐🌙 ilk projemiz: menü sistemi 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨
 bu projede küçük çaplı menü sistemi oluşturduk müşterinin kendi bilgilerini aldık ve yediği içtiği şeyleri hesaplama işlemini yaptık bu sayede değişkenlerin önemini kavradım.
